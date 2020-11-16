@@ -41,7 +41,7 @@ $ make check
 
 Using homebrew,
 ```
-$ brew install gnu-sed
+$ brew install autogen libtool gnu-sed
 ```
 
 If you wish to enable the SWIG interface, you
